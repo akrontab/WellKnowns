@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WellKnowns": {
+        "commandName": "Project",
+        "commandLineArgs": ""
+    }
+  }
+}
